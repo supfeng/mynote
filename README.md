@@ -31,3 +31,6 @@
 ## 界面展示
 查看 demo.JPG
 
+## 了解更多
+查看 notes.docx 
+
